@@ -1,0 +1,30 @@
+[
+  {
+    "major": 8,
+    "version": "jdk8u504-b01",
+    "filename": "OpenJDK8U-jre_x64_linux_hotspot_8u504b01.tar.gz",
+    "sha256": "52dcd578baca1d3e449ea86768a9129c0ee04d7b22565695498353cc66940c61",
+    "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jre_x64_linux_hotspot_8u504b01.tar.gz"
+  },
+  {
+    "major": 17,
+    "version": "jdk-17.0.20.1+1",
+    "filename": "OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz",
+    "sha256": "0b2b640e3046b64c8ec504de0ab9d91bb5610182bda21fad454681ce54d45a62",
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_linux_hotspot_17.0.20.1_1.tar.gz"
+  },
+  {
+    "major": 21,
+    "version": "jdk-21.0.12.1+1",
+    "filename": "OpenJDK21U-jre_x64_linux_hotspot_21.0.12.1_1.tar.gz",
+    "sha256": "2413149700df0f7d440500a84a8f764c535f21e5a5e87d38328b64eec2c5b500",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_x64_linux_hotspot_21.0.12.1_1.tar.gz"
+  },
+  {
+    "major": 25,
+    "version": "jdk-25.0.4.1+1",
+    "filename": "OpenJDK25U-jre_x64_linux_hotspot_25.0.4.1_1.tar.gz",
+    "sha256": "1731a34baadec5479258ea0202e4d5d865d2efeee60cb0c7d7eb056fe96ca219",
+    "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_x64_linux_hotspot_25.0.4.1_1.tar.gz"
+  }
+]

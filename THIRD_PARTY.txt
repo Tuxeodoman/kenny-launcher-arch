@@ -1,0 +1,25 @@
+The package includes Qt 6.11.2, Eclipse Temurin OpenJDK 8/17/21/25,
+7-Zip, authlib-injector and shared libraries from Ubuntu 24.04.
+
+Qt license texts are in licenses/Qt inside the archive. Qt is dynamically
+linked; its libraries can be replaced in lib/, plugins/ and qml/.
+Corresponding Qt source code for version 6.11.2:
+https://download.qt.io/official_releases/qt/6.11/6.11.2/single/
+https://github.com/qt/qtbase/tree/v6.11.2
+https://github.com/qt/qtdeclarative/tree/v6.11.2
+https://github.com/qt/qtsvg/tree/v6.11.2
+https://github.com/qt/qtimageformats/tree/v6.11.2
+https://github.com/qt/qtwayland/tree/v6.11.2
+https://github.com/qt/qtshadertools/tree/v6.11.2
+
+Java licenses and notices are preserved under java/<version>/legal or
+java/<version>/LICENSE and THIRDPARTYLICENSEREADME.txt. Exact versions,
+original downloads and SHA-256 checksums are in runtimes.json.
+https://github.com/adoptium/temurin8-binaries
+https://github.com/adoptium/temurin17-binaries
+https://github.com/adoptium/temurin21-binaries
+https://github.com/adoptium/temurin25-binaries
+
+7-Zip: 7zip-License.txt; https://www.7-zip.org/
+authlib-injector: https://github.com/yushijinhun/authlib-injector
+Ubuntu dependency copyright notices: licenses/ubuntu/ in the archive.
